@@ -1,0 +1,7 @@
+calc_crc32
+extract_fwupd
+extract_secrets
+extract_testkeys
+lz77
+secrets/
+*.o
