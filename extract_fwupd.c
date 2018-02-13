@@ -492,6 +492,9 @@ static const struct fw_gen fw_types[] = {
 	}, {
 		.hwid = "METZ613 ",
 		.func = process_file_ch610,
+	}, {
+		.hwid = "METZ616",
+		.func = process_file_ch610,
 	},
 };
 
